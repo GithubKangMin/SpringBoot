@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac9b6e0-8ee3-4a5f-84bd-46717cc0d2a1" name="Changes" comment="" />
+    <list default="true" id="aac9b6e0-8ee3-4a5f-84bd-46717cc0d2a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/6주차 워크북/6week" beforeDir="false" afterPath="$PROJECT_DIR$/6주차 워크북/6week" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,7 @@
       <workItem from="1731330026598" duration="5000" />
       <workItem from="1731330072724" duration="4000" />
       <workItem from="1731330334876" duration="1000" />
-      <workItem from="1731372480573" duration="1269000" />
+      <workItem from="1731372480573" duration="1588000" />
     </task>
     <servers />
   </component>
